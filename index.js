@@ -1,6 +1,6 @@
 const books = [
   {
-    name: "To Kill a Mockingbird",
+    name: "To Kill a Mockingbirb",
     authorFirst: "Harper",
     authorLast: "Lee",
     publishDate: 1960,
